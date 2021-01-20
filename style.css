@@ -1,0 +1,24 @@
+h1{
+	color:red;
+}
+h1{
+   font-size: 30px; 
+}
+.hedding{
+    color:darkorchid;
+    background-color:orange;
+}
+img {
+    border: 4px solid green;
+}
+.red{
+    color:red;
+     font-size: 70px;
+    background-image:url(kUIGm7.png);
+    background-position:center;
+    border-radius: 20px;
+}
+
+.red:hover {
+    border: 15px solid black;
+}
